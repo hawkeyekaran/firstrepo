@@ -1,4 +1,4 @@
 # firstrepo
 This is my first repo
 <br>
-My name is Karan Tiwari
+My name is Karan Tiwari(Tripathi)
